@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##Frontend Developer 🔭
+## Frontend Developer 🔭
 Love to build responsive and beautiful websites using
 ###### HTML, CSS, Javascript, SCSS, SASS, Bootstrap, Tailwind and Figma ✨ 
 
